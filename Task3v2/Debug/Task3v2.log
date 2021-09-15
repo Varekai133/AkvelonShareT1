@@ -1,0 +1,9 @@
+﻿  Task3v2.cpp
+c:\users\kat\desktop\3.2\c++\task3v2\task3v2\graph.h(102): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\kat\desktop\3.2\c++\task3v2\task3v2\graph.h(90): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\kat\desktop\3.2\c++\task3v2\task3v2\task3v2.cpp(31): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::WSearch(void)"
+  c:\users\kat\desktop\3.2\c++\task3v2\task3v2\task3v2.cpp(153): note: выполняется компиляция ссылки на экземпляр шаблон класс "Graph<std::string>"
+c:\users\kat\desktop\3.2\c++\task3v2\task3v2\graph.h(74): warning C4018: <: несоответствие типов со знаком и без знака
+  c:\users\kat\desktop\3.2\c++\task3v2\task3v2\graph.h(61): note: при компиляции функции-члена "<Нет данных>" класса класс <Нет данных>
+  c:\users\kat\desktop\3.2\c++\task3v2\task3v2\task3v2.cpp(14): note: выполняется компиляция ссылки на экземпляр шаблон функции "void Graph<std::string>::DSearch(void)"
+  Task3v2.vcxproj -> C:\Users\Kat\Desktop\3.2\C++\Task3v2\Debug\Task3v2.exe
